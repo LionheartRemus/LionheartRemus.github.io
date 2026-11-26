@@ -1,0 +1,154 @@
+[
+  {
+    "id": "frosty-layout-1",
+    "source": "scene_exp_side_frosty_1_feedback2.png",
+    "width": 7234,
+    "height": 3592,
+    "original": "assets/frosty-layout-1-full.webp",
+    "preview": "assets/frosty-layout-1.webp"
+  },
+  {
+    "id": "frosty-layout-2",
+    "source": "scene_exp_side_frosty_2_final_70%.png",
+    "width": 6913,
+    "height": 3028,
+    "original": "assets/frosty-layout-2-full.webp",
+    "preview": "assets/frosty-layout-2.webp"
+  },
+  {
+    "id": "frosty-layout-3",
+    "source": "scene_exp_side_frosty_3_final_70%.png",
+    "width": 2940,
+    "height": 5018,
+    "original": "assets/frosty-layout-3-full.webp",
+    "preview": "assets/frosty-layout-3.webp"
+  },
+  {
+    "id": "frosty-final-1",
+    "source": "exp_side_frosty_1_screen_60.png",
+    "width": 6512,
+    "height": 3273,
+    "original": "assets/frosty-final-1-full.webp",
+    "preview": "assets/frosty-final-1.webp"
+  },
+  {
+    "id": "frosty-final-2",
+    "source": "exp_side_frosty_2_screen_50.png",
+    "width": 5445,
+    "height": 2750,
+    "original": "assets/frosty-final-2-full.webp",
+    "preview": "assets/frosty-final-2.webp"
+  },
+  {
+    "id": "frosty-final-3",
+    "source": "exp_side_frosty_3_screen_60.png",
+    "width": 3268,
+    "height": 4901,
+    "original": "assets/frosty-final-3-full.webp",
+    "preview": "assets/frosty-final-3.webp"
+  },
+  {
+    "id": "time-layout-1",
+    "source": "exp_side_iolanta_1_back_full_biomes.png",
+    "width": 8192,
+    "height": 4096,
+    "original": "assets/time-layout-1-full.webp",
+    "preview": "assets/time-layout-1.webp"
+  },
+  {
+    "id": "time-layout-2",
+    "source": "exp_side_iolanta_2s.png",
+    "width": 8192,
+    "height": 4096,
+    "original": "assets/time-layout-2-full.webp",
+    "preview": "assets/time-layout-2.webp"
+  },
+  {
+    "id": "time-layout-3",
+    "source": "exp_side_iolanta_3_fixed_sides.png",
+    "width": 7168,
+    "height": 4096,
+    "original": "assets/time-layout-3-full.webp",
+    "preview": "assets/time-layout-3.webp"
+  },
+  {
+    "id": "hub",
+    "source": "city_screen2.png",
+    "width": 3740,
+    "height": 2427,
+    "original": "assets/hub-full.webp",
+    "preview": "assets/hub.webp"
+  },
+  {
+    "id": "onboarding-1",
+    "source": "expedition_1_screen_12.3_2.png",
+    "width": 3240,
+    "height": 2666,
+    "original": "assets/onboarding-1-full.webp",
+    "preview": "assets/onboarding-1.webp"
+  },
+  {
+    "id": "onboarding-2",
+    "source": "expedition_3_screen_12.3_2.png",
+    "width": 4750,
+    "height": 3304,
+    "original": "assets/onboarding-2-full.webp",
+    "preview": "assets/onboarding-2.webp"
+  },
+  {
+    "id": "campaign-mini",
+    "source": "exp_side_gzot_mini1_screen2.png",
+    "width": 1632,
+    "height": 1359,
+    "original": "assets/campaign-mini-full.webp",
+    "preview": "assets/campaign-mini.webp"
+  },
+  {
+    "id": "campaign-final-1",
+    "source": "exp_side_gzot_1_screen2.png",
+    "width": 3266,
+    "height": 1632,
+    "original": "assets/campaign-final-1-full.webp",
+    "preview": "assets/campaign-final-1.webp"
+  },
+  {
+    "id": "campaign-final-2",
+    "source": "exp_side_gzot_2_screen2.png",
+    "width": 3267,
+    "height": 1632,
+    "original": "assets/campaign-final-2-full.webp",
+    "preview": "assets/campaign-final-2.webp"
+  },
+  {
+    "id": "campaign-final-3",
+    "source": "exp_side_gzot_3_screen_50.png",
+    "width": 4084,
+    "height": 2721,
+    "original": "assets/campaign-final-3-full.webp",
+    "preview": "assets/campaign-final-3.webp"
+  },
+  {
+    "id": "castle-layout",
+    "source": "scene_exp_side_frosty_castle_final_70%.png",
+    "width": 2695,
+    "height": 1829,
+    "original": "assets/castle-layout-full.webp",
+    "preview": "assets/castle-layout.webp"
+  },
+  {
+    "id": "castle-final",
+    "source": "exp_side_frosty_castle_screen_75.png",
+    "width": 4091,
+    "height": 3065,
+    "original": "assets/castle-final-full.webp",
+    "preview": "assets/castle-final.webp"
+  },
+  {
+    "id": "library-final",
+    "source": "exp_side_frosty_library_screen_75.png",
+    "width": 1950,
+    "height": 1950,
+    "original": "assets/library-final-full.webp",
+    "preview": "assets/library-final.webp"
+  }
+]

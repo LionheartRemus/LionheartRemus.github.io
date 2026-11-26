@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#162b24">
+  <meta name="description" content="Daniil Klimanov — game designer. Level layouts, player flow, narrative campaigns and technical implementation.">
+  <title>Daniil Klimanov — Game Design Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="es.js" defer></script>
+  <script src="content.js" defer></script>
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">К содержанию / Skip to content</a>
+  <header class="site-header">
+    <a href="#/" class="identity" aria-label="Daniil Klimanov — Home"><span class="monogram">dk<span>.</span></span><span>Daniil Klimanov<span class="identity-sub">Game Designer</span></span></a>
+    <nav aria-label="Main navigation" id="main-nav"></nav>
+    <div class="header-actions"><div class="language-switch" id="language" role="group" aria-label="Язык"></div><button class="copy-page" id="copy-page" aria-label="Скопировать ссылку на страницу" title="Скопировать ссылку на страницу">⧉</button></div>
+  </header>
+  <main id="main" tabindex="-1"></main>
+  <footer id="footer"></footer>
+  <dialog class="viewer" id="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-top"><div><span class="eyebrow" id="viewer-counter"></span><h2 id="viewer-title"></h2></div><button class="icon-button" id="viewer-close" aria-label="Закрыть / Close">✕</button></div>
+    <div class="viewer-stage" id="viewer-stage"><img id="viewer-image" alt="" draggable="false"><div class="image-loading" id="image-loading">Загрузка / Loading…</div></div>
+    <div class="viewer-bottom"><div class="viewer-switch"><button id="viewer-prev" class="viewer-button">Предыдущая</button><button id="viewer-next" class="viewer-button">Следующая</button></div><div class="zoom-controls"><button id="zoom-out" class="icon-button" aria-label="Уменьшить / Zoom out">−</button><output id="zoom-level">100%</output><button id="zoom-in" class="icon-button" aria-label="Увеличить / Zoom in">+</button><button id="zoom-fit" class="viewer-button">Вписать</button><button id="zoom-native" class="viewer-button">1:1</button></div><a id="viewer-original" target="_blank" rel="noopener" class="viewer-button">Открыть изображение</a></div>
+    <p class="viewer-hint" id="viewer-hint"></p>
+  </dialog>
+  <noscript><p class="noscript">Для просмотра кейсов включите JavaScript. Исходное портфолио: <a href="https://miro.com/app/board/uXjVKrHaB3s=/">Miro</a>.</p></noscript>
+</body>
+</html>
